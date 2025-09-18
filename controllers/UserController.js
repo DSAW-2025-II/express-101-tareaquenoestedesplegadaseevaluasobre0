@@ -1,9 +1,7 @@
 module.exports = {
 
     get : (request, response) => {
-        
-        const estudianteID = request.estudianteID;
-        const estudiante = estudiantes[estudianteID]
+        response.send("jajaja")
     },
 
     put : (request, response) => {
