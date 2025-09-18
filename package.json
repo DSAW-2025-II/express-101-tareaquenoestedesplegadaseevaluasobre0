@@ -7,9 +7,17 @@
     "devStart": "nodemon server.js",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSAW-2025-II/express-101-tareaquenoestedesplegadaseevaluasobre0.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSAW-2025-II/express-101-tareaquenoestedesplegadaseevaluasobre0/issues"
+  },
+  "homepage": "git+https://github.com/DSAW-2025-II/express-101-tareaquenoestedesplegadaseevaluasobre0#readme",
   "dependencies": {
     "dotenv": "^17.2.2",
     "express": "^5.1.0"
