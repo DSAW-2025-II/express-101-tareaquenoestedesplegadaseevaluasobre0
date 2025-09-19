@@ -8,5 +8,5 @@ const controller = require('../controllers/UserController')
 //Get del router que invoca al get del controlador
 router.get('/:id', controller.get)
 
-//Exportación del router
+//Exportación del router 
 module.exports = router
